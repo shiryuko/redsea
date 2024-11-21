@@ -2,7 +2,7 @@
 
 ![Redsea game](/website/redsea_web.png)
 
-Redsea is a **singleplayer shoot 'em up retro game** that was developed by three students of the University of Alicante for **[CPCRetroDev](http://cpcretrodev.byterealms.com/) 2018**.
+Redsea is a **retro single-player shoot 'em up game** developed by three students from the University of Alicante for **[CPCRetroDev](http://cpcretrodev.byterealms.com/) 2018**.
 
 The game was developed in less than 3 months and it's entirely programmed in **assembly Z80 language** using the **[CPCTelera](https://github.com/lronaldo/cpctelera)** game engine. Redsea ended up in 12th position out of 41 participants in the contest.
 
